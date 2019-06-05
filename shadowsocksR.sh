@@ -20,7 +20,7 @@ echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.17"
-libsodium_url="https://github.com/ljwwz/libsodium/releases/download/1.0.17/libsodium-1.0.17.tar.gz"
+libsodium_url="https://github.com/ljwwz/libsodium/archive/1.0.18.tar.gz"
 shadowsocks_r_file="shadowsocksr-3.2.2"
 shadowsocks_r_url="https://github.com/ljwwz/shadowsocksr/archive/3.2.2.tar.gz"
 
